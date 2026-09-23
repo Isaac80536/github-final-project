@@ -59,3 +59,5 @@ Ensure you have your environment set up (e.g., Python 3.8+ / Node.js 18+ dependi
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/simple-interest-calculator.git](https://github.com/your-username/simple-interest-calculator.git)
+
+   Isaac hilario
